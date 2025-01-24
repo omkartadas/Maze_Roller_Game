@@ -1,4 +1,4 @@
-# 3D Maze Game
+# Maze Roller Game
 
 A simple 3D maze game for Android where players control a sphere using accelerometer input to navigate through a maze, avoiding obstacles and reaching the endpoint within a time limit. The game features a scoring system, UI states (Start, Pause, Win, Loss), and a one-life setup for a more engaging experience.
 
