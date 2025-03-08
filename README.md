@@ -2,7 +2,7 @@
 
 A simple 3D maze game for Android where players control a sphere using accelerometer input to navigate through a maze, avoiding obstacles and reaching the endpoint within a time limit. The game features a scoring system, UI states (Start, Pause, Win, Loss), and a one-life setup for a more engaging experience.
 
-You can also the project on: https://hakunamatata1o1.itch.io/maze-roller-game
+You can also check the project on: https://hakunamatata1o1.itch.io/maze-roller-game
 
 ## Features
 - **Accelerometer-based Controls**: Move the sphere by tilting the device.
